@@ -5,7 +5,7 @@ The way this parser works is by tracking down all mangled RTTI strings then trac
 
 NOTE: This IDAPython script has only been tested with Pokemon XY and IDA Pro 7.6 (HexRays Decompiler included). Your mileage may vary!
 
-##How to Use
+## How to Use
 
 1-Load a codebase that has ARMCC based (?) RunTime TypeInfo.
 
